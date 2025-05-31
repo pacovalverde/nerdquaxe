@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\proyectos\KiCad\NerdQaxe\firmware\fw-L072CB\target\release\build\cortex-m-rt-13dd8c7129636154\out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in

@@ -1,0 +1,4 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=C:\proyectos\KiCad\NerdQaxe\firmware\fw-L072CB\target\thumbv6m-none-eabi\release\build\cortex-m-5946dfd88ffdb52e\out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv6m

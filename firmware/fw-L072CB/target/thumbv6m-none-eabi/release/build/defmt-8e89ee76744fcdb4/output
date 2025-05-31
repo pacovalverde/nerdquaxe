@@ -1,0 +1,2 @@
+cargo:rustc-link-search=C:\proyectos\KiCad\NerdQaxe\firmware\fw-L072CB\target\thumbv6m-none-eabi\release\build\defmt-8e89ee76744fcdb4\out
+cargo:rustc-cfg=no_cas

@@ -1,0 +1,5 @@
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv6m
+cargo:rustc-link-search=C:\proyectos\KiCad\NerdQaxe\firmware\fw-L072CB\target\thumbv6m-none-eabi\debug\build\cortex-m-rt-457a53d445dfa49e\out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in
